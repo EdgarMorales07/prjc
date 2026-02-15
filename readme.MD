@@ -1,4 +1,4 @@
-# Demo de Git Básuci (palitos y bolitas 1)
+# Demo de Git Básico (palitos y bolitas 1)
 ## Temas Especiales de Computación - 2026
 ### Profesor: Jesús HC
 
@@ -22,12 +22,15 @@
 - Queso
 
 ## Texto
-
 Para escribir tipografía es muy parecido a la estrategia usada en WhatsApp.
-Esto está en **negritas** y esta _palabra_está en cursivas.
+Esto está en **negritas** y esta _palabra_ está en cursivas.
 
-´´´
+## Código
+```java
 public static void(String[] args){
   System.out.println("Hola Mundo!");
 }
-´´´
+```
+
+## Imágen
+![Meme de gato](https://images7.memedroid.com/images/UPLOADED856/66501584cd7ba.jpeg)
